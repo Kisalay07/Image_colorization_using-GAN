@@ -8,7 +8,7 @@ We investigate conditional adversarial networks as a general-purpose solution to
 ## Results
 
 <p align="center">
-  <img src="results/result.png" width="600">
+  <img src="./result.png" width="600">
 </p>
 
 ---
@@ -16,7 +16,7 @@ We investigate conditional adversarial networks as a general-purpose solution to
 ## Presentation
 
 <p align="center">
-  <img src="results/img2.png" width="250">
-  <img src="results/img3.png" width="250">
-  <img src="results/img6.png" width="250">
+  <img src="./img2.png" width="250">
+  <img src="./img3.png" width="250">
+  <img src="./img6.png" width="250">
 </p>
