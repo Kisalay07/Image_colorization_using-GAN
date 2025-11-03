@@ -18,13 +18,13 @@ We investigate conditional adversarial networks as a general-purpose solution to
 ## Presentation
 
 <p align="center">
-  <img src="./img2.png" width="400">
+  <img src="./img2.png" width="800">
 </p>
 
 <p align="center">
-  <img src="./img3.png" width="400">
+  <img src="./img3.png" width="800">
 </p>
 
 <p align="center">
-  <img src="./img6.png" width="400">
+  <img src="./img6.png" width="800">
 </p>
